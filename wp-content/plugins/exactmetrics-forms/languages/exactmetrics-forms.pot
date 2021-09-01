@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ExactMetrics Forms 1.0.4\n"
+"Report-Msgid-Bugs-To: https://exactmetrics.com/contact\n"
+"Last-Translator: ExactMetrics Team <support@exactmetrics.com>\n"
+"Language-Team: ExactMetrics Team <support@exactmetrics.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-14T15:21:19+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.2.0\n"
+"X-Domain: exactmetrics-forms\n"
+
+#: exactmetrics-forms/includes/integrations/wpforms.php:167
+msgid "UTM Data by ExactMetrics"
+msgstr ""
+
+#: exactmetrics-forms/includes/integrations/wpforms.php:195
+msgid "Campaign Source"
+msgstr ""
+
+#: exactmetrics-forms/includes/integrations/wpforms.php:196
+msgid "Campaign Medium"
+msgstr ""
+
+#: exactmetrics-forms/includes/integrations/wpforms.php:197
+msgid "Campaign Name"
+msgstr ""
+
+#: exactmetrics-forms/includes/integrations/wpforms.php:198
+msgid "Campaign Term"
+msgstr ""
+
+#: exactmetrics-forms/includes/integrations/wpforms.php:199
+msgid "Campaign Content"
+msgstr ""
+
+#: exactmetrics-forms/exactmetrics-forms.php:168
+msgid "Enable the ExactMetrics PRO plugin to manage auto-updates"
+msgstr ""
+
+#: exactmetrics-forms/exactmetrics-forms.php:225
+msgid "Please install ExactMetrics Pro to use the ExactMetrics Forms addon"
+msgstr ""
+
+#: exactmetrics-forms/exactmetrics-forms.php:241
+msgid "Please install or update ExactMetrics Pro with version 7.4 or newer to use the ExactMetrics Forms addon"
+msgstr ""
