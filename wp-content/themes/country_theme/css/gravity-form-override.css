@@ -1,0 +1,31 @@
+.gform_legacy_markup_wrapper.gf_browser_chrome select{
+    padding: 7px 4px !important;
+}
+.gform_footer  input[type=submit] {
+    border: none !important;
+    text-align: center !important;
+    background-color: #002d73 !important;
+    padding: 9px 15px !important;
+    border-radius: 4px !important;
+    outline-color: transparent !important;
+    color: #fff !important;
+}
+.gform_legacy_markup_wrapper table.gfield_list tr td.gfield_list_icons{width: 25px !important;top: 10px;position: relative;}
+/** Gravity Forms */
+/* ------------------------------------
+Gravity Forms
+---------------------------------------*/
+@media(max-width:991px){
+    .gform_wrapper .gfield .ginput_container  .gfield_list_icons a img{
+        height: 25px !important;
+        position: relative;
+        top: 5px;
+        /* justify-content: center; */
+        /* align-items: center; */
+    }
+}
+@media(min-width:992px){
+    .gform_wrapper .gfield .ginput_container  .gfield_list_icons a img{
+        height: 25px !important;
+    }
+}
